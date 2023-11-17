@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/fondovet"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_insertar"
+        android:layout_width="128dp"
+        android:layout_height="167dp"
+        android:layout_weight="1"
+        android:background="@drawable/insertar"
+        android:gravity="center" />
+
+    <ListView
+        android:id="@+id/lista"
+        android:layout_width="match_parent"
+        android:layout_height="647dp"
+        android:layout_weight="1"
+        android:background="#FFFFFF" />
+
+</LinearLayout>

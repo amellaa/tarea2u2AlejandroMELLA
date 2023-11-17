@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteCrudAlejandro</string>
+
+        <string name="et_usuario">Ingrese un Usuario</string>
+        <string name="et_password">Ingrese una Contraseña</string>
+        <string name="btn_inicio">Iniciar Sesion</string>
+        <string name="Descripcion">descripcion</string>
+        <string name="et_Resultado">Bienvenido:</string>
+
+</resources>
